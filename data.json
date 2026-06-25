@@ -2,41 +2,37 @@
   "beaches": [
     {
       "name": "Copacabana Beach",
-      "country": "Brazil",
-      "imageUrl": "images/copacabana.jpg",
-      "description": "Famous city beach in Rio de Janeiro."
+      "imageUrl": "images/copacabana-beach.jpg",
+      "description": "Famous city beach in Rio de Janeiro with a lively atmosphere and scenic coastline."
     },
     {
       "name": "Waikiki Beach",
-      "country": "USA",
-      "imageUrl": "images/waikiki.jpg",
-      "description": "Iconic surf beach in Honolulu, Hawaii."
+      "imageUrl": "images/Waikiki_Beach.jpg",
+      "description": "A world-famous beach in Honolulu known for surfing, sunshine, and beautiful ocean views."
     }
   ],
   "temples": [
     {
       "name": "Angkor Wat",
-      "country": "Cambodia",
-      "imageUrl": "images/angkorwat.jpg",
-      "description": "Vast temple complex surrounded by jungle."
+      "imageUrl": "images/Angkor_Wat-temple.jpg",
+      "description": "A vast and historic temple complex in Cambodia surrounded by stunning architecture and reflection pools."
     },
     {
       "name": "Senso-ji Temple",
-      "country": "Japan",
-      "imageUrl": "images/sensoji.jpg",
-      "description": "Historic Buddhist temple in Tokyo."
+      "imageUrl": "images/senjoji-temple.jpg",
+      "description": "A famous Buddhist temple in Japan known for its striking red pagoda and cultural significance."
     }
   ],
   "countries": [
     {
       "name": "Japan",
       "imageUrl": "images/japan.jpg",
-      "description": "From neon cities to tranquil temples."
+      "description": "A country known for blending ancient traditions with modern cities, technology, and natural beauty."
     },
     {
-      "name": "Greece",
-      "imageUrl": "images/greece.jpg",
-      "description": "Sun-soaked islands and ancient ruins."
+      "name": "Brazil",
+      "imageUrl": "images/brazil.jpg",
+      "description": "A vibrant country known for beaches, mountains, festivals, and iconic views of Rio de Janeiro."
     }
   ]
 }
