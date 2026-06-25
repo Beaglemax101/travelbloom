@@ -1,0 +1,42 @@
+{
+  "beaches": [
+    {
+      "name": "Copacabana Beach",
+      "country": "Brazil",
+      "imageUrl": "images/copacabana.jpg",
+      "description": "Famous city beach in Rio de Janeiro."
+    },
+    {
+      "name": "Waikiki Beach",
+      "country": "USA",
+      "imageUrl": "images/waikiki.jpg",
+      "description": "Iconic surf beach in Honolulu, Hawaii."
+    }
+  ],
+  "temples": [
+    {
+      "name": "Angkor Wat",
+      "country": "Cambodia",
+      "imageUrl": "images/angkorwat.jpg",
+      "description": "Vast temple complex surrounded by jungle."
+    },
+    {
+      "name": "Senso-ji Temple",
+      "country": "Japan",
+      "imageUrl": "images/sensoji.jpg",
+      "description": "Historic Buddhist temple in Tokyo."
+    }
+  ],
+  "countries": [
+    {
+      "name": "Japan",
+      "imageUrl": "images/japan.jpg",
+      "description": "From neon cities to tranquil temples."
+    },
+    {
+      "name": "Greece",
+      "imageUrl": "images/greece.jpg",
+      "description": "Sun-soaked islands and ancient ruins."
+    }
+  ]
+}
